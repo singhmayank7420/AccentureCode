@@ -29,4 +29,4 @@ void main()
 		printf("\nstudent[%d]\t\t%d",j+1,total.sub[j]);
 	}
 	printf("\nGRAND TOTAL\t\t%d",total.total);
-}
+}//this is the new change
